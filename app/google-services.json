@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786108281144",
+    "project_id": "dincerlojistik-70ca6",
+    "storage_bucket": "dincerlojistik-70ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786108281144:android:bbd0575d13aaea9e26d1cd",
+        "android_client_info": {
+          "package_name": "com.ulas.dincerlojistik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786108281144-c0v4mqo77po7tofs85omaevb0p9vhitf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBqlwBmLWnnDwfI95AKyAE1UQhLP47IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786108281144-c0v4mqo77po7tofs85omaevb0p9vhitf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
